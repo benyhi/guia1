@@ -1,3 +1,6 @@
+# Leer dos números y luego una opción (puede ser '+' o '-'), y según la
+#opción elegida realizar el cálculo.
+
 num1 = input('Ingresa un numero: ')
 num2 = input('Ingresa otro numero: ')
 
